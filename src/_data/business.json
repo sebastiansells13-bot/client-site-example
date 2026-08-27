@@ -1,0 +1,12 @@
+{
+  "name": "Harbor Light Coffee Co.",
+  "tagline": "Small-batch coffee roasted a block from the water.",
+  "phone": "(555) 019-2244",
+  "email": "hello@harborlightcoffee.example",
+  "address": "118 Wharf Street, Bristol Harbor",
+  "social": {
+    "instagram": "harborlightcoffee",
+    "facebook": "harborlightcoffee",
+    "linkedin": ""
+  }
+}

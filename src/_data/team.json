@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "name": "Alex Rivera",
+      "role": "Owner & Head Roaster",
+      "photo": "/img/team/alex.jpg",
+      "bio": "Alex started roasting in a garage in 2019 and opened the Wharf Street storefront two years later. Still pulls the first shot of the day."
+    },
+    {
+      "name": "Jordan Blake",
+      "role": "Cafe Manager",
+      "photo": "/img/team/jordan.jpg",
+      "bio": "Jordan runs the front of house and keeps the pastry case stocked. Ask them for a recommendation — they're always right."
+    }
+  ]
+}

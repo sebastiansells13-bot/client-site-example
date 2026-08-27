@@ -1,0 +1,16 @@
+{
+  "list": [
+    {
+      "title": "Coffee & Espresso",
+      "description": "Single-origin beans roasted weekly in-house, brewed pour-over or espresso, your call."
+    },
+    {
+      "title": "Pastries & Light Bites",
+      "description": "Baked fresh each morning by our neighbors at Bristol Harbor Bakehouse."
+    },
+    {
+      "title": "Private Events",
+      "description": "Book the back room for a morning meeting, a book club, or a small gathering."
+    }
+  ]
+}
